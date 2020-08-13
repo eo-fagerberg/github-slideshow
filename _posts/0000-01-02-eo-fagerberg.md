@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+What do sea monsters eat? Fish and ships (chips)
 Use the left arrow to go back!
